@@ -1,0 +1,9 @@
+<resources>
+    <!-- Tema baseado em AppCompat -->
+    <style name="Theme.TDE2Guilherme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Personalize seu tema aqui -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
